@@ -1,0 +1,18 @@
+link to doc -> https://bit.ly/t3-practise
+
+leetcode
+https://leetcode.com/problems/n-th-tribonacci-number/
+https://leetcode.com/problems/fibonacci-number/
+
+codeforces
+https://codeforces.com/problemset/problem/4/A
+https://codeforces.com/problemset/problem/50/A
+
+codechef
+https://www.codechef.com/problems/PR031
+https://www.codechef.com/problems/APENDOR
+
+https://www.codechef.com/problems/FIBB
+https://www.codechef.com/problems/CHEFPRMS
+https://www.codechef.com/problems/range-sum-query-immutable/
+
